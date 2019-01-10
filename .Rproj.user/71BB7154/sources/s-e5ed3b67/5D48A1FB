@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547125869243.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1766418864",
+    "id" : "5D48A1FB",
+    "lastKnownWriteTime" : 1547125874,
+    "last_content_update" : 1547125874817,
+    "path" : "/cloud/project/themes/hugo-lithium/layouts/partials/header.html",
+    "project_path" : "themes/hugo-lithium/layouts/partials/header.html",
+    "properties" : {
+        "cursorPosition" : "4,34",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}
